@@ -50,10 +50,6 @@ class Developer:
 
 </div>
 
-## GitHub Stats
-
-![shybruh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shybruh&theme=blue_navy)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shybruh&layout=compact&theme=blue_navy)
 
 ---
