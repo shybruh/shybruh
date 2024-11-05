@@ -9,14 +9,14 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Shyy"
-        self.role = "Full Stack Developer"
+        self.name = "Shaibaan"
+        self.role = "Amateur Full Stack Developer"
         self.interests = ["Automation", "Open Source", "Life Hacks"]
         self.learning = "Python 🐍"
         self.skills = {
             "Languages": ["C++", "C#", "C", "Python"],
             "Web": ["HTML", "CSS", "JavaScript"],
-            "Focus": "Building efficient solutions"
+            "Focus": "Building efficient GUIs"
         }
 ```
 
