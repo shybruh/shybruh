@@ -16,7 +16,7 @@ class Developer:
         self.skills = {
             "Languages": ["C++", "C#", "C", "Python"],
             "Web": ["HTML", "CSS", "JavaScript"],
-            "Focus": "Building efficient GUIs"
+            "Focus": "Existing"
         }
 ```
 
