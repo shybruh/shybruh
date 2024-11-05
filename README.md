@@ -39,7 +39,7 @@ class Developer:
 - 👀 Building tools that make life easier
 - 🌱 Deep diving into Python
 - 💞️ Open for exciting open-source collaborations
-- ⚡ Recently discovered: QtPy has both paid and free versions!
+- ⚡ Recently discovered: Not creating a proper github for years is not a good idea :/
 
 ## Let's Connect!
 
