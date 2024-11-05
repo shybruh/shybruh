@@ -52,7 +52,7 @@ class Developer:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shybruh&show_icons=true&theme=blue_navy)
+![shybruh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shybruh&theme=vue-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shybruh&layout=compact&theme=blue_navy)
 
