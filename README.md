@@ -1,17 +1,16 @@
 <div align="center">
   
-# Hello! 👋
+# H!, I'm Shyy 👋
 
 </div>
 
-## About Me
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Shaibaan"
         self.role = "Amateur Full Stack Developer"
-        self.interests = ["Automation", "Open Source", "Life Hacks"]
+        self.interests = ["Automation", "Open Source", "User Interfaces", "Ease of life"]
         self.learning = "Python 🐍"
         self.skills = {
             "Languages": ["C++", "C#", "C", "Python"],
@@ -19,8 +18,6 @@ class Developer:
             "Focus": "Existing"
         }
 ```
-
-## Tech Stack
 
 <div align="left">
 
@@ -33,13 +30,6 @@ class Developer:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
-
-## Current Status
-
-- 👀 Building tools that make life easier
-- 🌱 Deep diving into Python
-- 💞️ Open for exciting open-source collaborations
-- ⚡ Recently discovered: Not creating a proper github for years is not a good idea :/
 
 ## Let's Connect!
 
@@ -55,5 +45,5 @@ class Developer:
 ---
 
 <div align="center">
-  <i>⭐ Star my repositories if you find them useful! ⭐</i>
+  <i>Contact me on discord for a faster reply!!</i>
 </div>
