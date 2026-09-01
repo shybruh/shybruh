@@ -9,12 +9,10 @@
 class Developer:
     def __init__(self):
         self.name = "Shaibaan"
-        self.role = "Amateur Full Stack Developer"
+        self.role = "Amateur Developer"
         self.interests = ["Automation", "Open Source", "User Interfaces", "Ease of life"]
-        self.learning = "Python 🐍"
-        self.skills = {
-            "Languages": ["C++", "C#", "C", "Python"],
-            "Web": ["HTML", "CSS", "JavaScript"],
+        self.learning = "Something"
+        self.goal = {
             "Focus": "Existing"
         }
 ```
