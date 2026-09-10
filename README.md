@@ -1,21 +1,11 @@
 <div align="center">
   
-# H!, I'm Shyy 👋
+# H!, I'm Shyy 
 
 </div>
 
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Shaibaan"
-        self.role = "Amateur Developer"
-        self.interests = ["Automation", "Open Source", "User Interfaces", "Ease of life"]
-        self.learning = "Something"
-        self.goal = {
-            "Focus": "Existing"
-        }
-```
+
 
 <div align="left">
 
@@ -37,10 +27,6 @@ class Developer:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tvs07340@gmail.com)
 
 </div>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shybruh&layout=compact&theme=blue_navy)
-
----
 
 <div align="center">
   <i>Contact me on discord for a faster reply!!</i>
