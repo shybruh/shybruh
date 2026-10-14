@@ -19,7 +19,7 @@
 
 </div>
 
-## Let's Connect!
+## Currently working on : https://github.com/shybruh/FightingControlCenter-FCC
 
 <div align="left">
 
