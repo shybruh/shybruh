@@ -24,7 +24,6 @@
 <div align="left">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/shyy.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tvs07340@gmail.com)
 
 </div>
 
